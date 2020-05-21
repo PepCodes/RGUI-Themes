@@ -25,6 +25,10 @@ A series of custom themes with original artwork for recent versions of RetroArch
 	</tbody>
 </table>
 
-
 There's only two at the moment, but more may come as I get the ideas and the motivation.
 
+## Known Compatibility Issues
+<b>Nintendo 2DS/3DS Family</b>
+<ul>
+	<li>Due to its screen resolution of 400x240, only the 4:3 and 16:10 theme variants are supported.</li>
+</ul>
