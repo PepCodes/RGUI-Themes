@@ -49,5 +49,3 @@ A series of custom themes for recent versions of RetroArch's RGUI menu driver th
 	</tbody>
 </table>
 
-There's only a few at the moment, but more may come as I get the ideas and the motivation.
-
