@@ -2,6 +2,7 @@
 
 ## 2020-05-22
 <ul>
+	<li>Fixed artwork alignment issue on the 4:3 variant of Term.</li>
 	<li>Added the Term theme.</li>
 </ul>
 
