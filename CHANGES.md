@@ -2,6 +2,7 @@
 
 ## 2020-05-23
 <ul>
+	<li>Added Cupertino 7 (Color) theme.</li>
 	<li>Removed trash bin from Cupertino 7 to reduce reliance on non-original artwork.</li>
 	<li>Added missing rounded bottom corners to Cupertino 7.</li>
 	<li>Added the Cupertino 7 theme.</li>

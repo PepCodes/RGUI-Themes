@@ -16,17 +16,21 @@ A series of custom themes for recent versions of RetroArch's RGUI menu driver th
 			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/cupertino7-centered.png" />
                 Cupertino 7
+			</td>			
+			<td>
+				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/cupertino7-color-centered.png" />
+                Cupertino 7 (Color)
 			</td>
 			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/term-centered.png" />
                 Term
 			</td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-centered.png" />
                 Wii
 			</td>
-		</tr>
-		<tr>
 			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-dark-centered.png" />
                 Wii (Dark)
