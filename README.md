@@ -14,6 +14,10 @@ A series of custom themes with original artwork for recent versions of RetroArch
 	<tbody>
 		<tr>
 			<td>
+				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/cupertino7-centered.png" />
+                Cupertino 7
+			</td>
+			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/term-centered.png" />
                 Term
 			</td>
@@ -21,6 +25,8 @@ A series of custom themes with original artwork for recent versions of RetroArch
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-centered.png" />
                 Wii
 			</td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-dark-centered.png" />
                 Wii (Dark)
