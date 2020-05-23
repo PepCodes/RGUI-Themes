@@ -1,5 +1,5 @@
 # RGUI Themes for RetroArch
-A series of custom themes with original artwork for recent versions of RetroArch's RGUI menu driver. Each theme supports text shadows and comes in centered and full-width variants, the former of which are shown below. While particle animations may look alright, these themes were not designed with them in mind.
+A series of custom themes for recent versions of RetroArch's RGUI menu driver that combine classic influences with original artwork. Each theme supports text shadows and comes in centered and full-width variants, the former of which are shown below. While particle animations may look alright, these themes were not designed with them in mind.
 
 ## How to Use
 1. Clone this repo or download it as a .ZIP archive.
