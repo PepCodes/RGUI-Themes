@@ -1,6 +1,4 @@
-Cupertino 7
-Cupertino 7 (Centered)
-Cupertino 7 (Color)
-Cupertino 7 (Color, Centered)
+Cupertino 9
+Cupertino 9 (Centered)
 
 Original artwork by Ed Peppe/PepVerbsNouns
