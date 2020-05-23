@@ -47,10 +47,12 @@ A series of custom themes for recent versions of RetroArch's RGUI menu driver th
 			</td>
 		</tr>
 		<tr>
-			<td colspan='3'>
+			<td></td>
+			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-dark-centered.png" />
                 Wii (Dark)
 			</td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
