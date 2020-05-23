@@ -1,5 +1,10 @@
 # Changes
 
+## 2020-05-22
+<ul>
+	<li>Added the Term theme.</li>
+</ul>
+
 ## 2020-05-21
 <ul>
 	<li>Fixed the bottom gradient on Wii (Dark).</li>

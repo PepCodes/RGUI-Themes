@@ -14,6 +14,10 @@ A series of custom themes with original artwork for recent versions of RetroArch
 	<tbody>
 		<tr>
 			<td>
+				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/term-centered.png" />
+                Term
+			</td>
+			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-centered.png" />
                 Wii
 			</td>
@@ -25,7 +29,7 @@ A series of custom themes with original artwork for recent versions of RetroArch
 	</tbody>
 </table>
 
-There's only two at the moment, but more may come as I get the ideas and the motivation.
+There's only a few at the moment, but more may come as I get the ideas and the motivation.
 
 ## Known Compatibility Issues
 <b>Nintendo 2DS/3DS Family</b>
