@@ -2,6 +2,7 @@
 
 ## 2020-05-23
 <ul>
+	<li>Added Redmond 3 theme.</li>
 	<li>Added Cupertino 9 theme.</li>
 	<li>Added Cupertino 7 (Color) theme.</li>
 	<li>Removed trash bin from Cupertino 7 to reduce reliance on non-original artwork.</li>

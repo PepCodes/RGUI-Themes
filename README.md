@@ -34,6 +34,10 @@ A series of custom themes for recent versions of RetroArch's RGUI menu driver th
 		</tr>
 		<tr>
 			<td>
+				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/redmond3-centered.png" />
+                Redmond 3
+			</td>
+			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/term-centered.png" />
                 Term
 			</td>
@@ -41,7 +45,9 @@ A series of custom themes for recent versions of RetroArch's RGUI menu driver th
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-centered.png" />
                 Wii
 			</td>
-			<td>
+		</tr>
+		<tr>
+			<td colspan='3'>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-dark-centered.png" />
                 Wii (Dark)
 			</td>
