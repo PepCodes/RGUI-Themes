@@ -38,16 +38,19 @@ A series of custom themes for recent versions of RetroArch's RGUI menu driver th
                 Redmond 3
 			</td>
 			<td>
+				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/redmond4-centered.png" />
+                Redmond 4
+			</td>
+			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/term-centered.png" />
                 Term
 			</td>
+		</tr>
+		<tr>
 			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-centered.png" />
                 Wii
 			</td>
-		</tr>
-		<tr>
-			<td></td>
 			<td>
 				<img src="https://raw.githubusercontent.com/PepCodes/RGUI-Themes/master/screenshots/wii-dark-centered.png" />
                 Wii (Dark)

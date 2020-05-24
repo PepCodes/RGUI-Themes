@@ -1,5 +1,10 @@
 # Changes
 
+## 2020-05-24
+<ul>
+	<li>Added Redmond 4 theme.</li>
+</ul>
+
 ## 2020-05-23
 <ul>
 	<li>Added Redmond 3 theme.</li>
