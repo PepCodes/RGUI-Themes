@@ -2,6 +2,7 @@
 
 ## 2020-05-24
 <ul>
+	<li>Added PlayStation theme.</li>
 	<li>Added Redmond 4 theme.</li>
 </ul>
 
